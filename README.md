@@ -1,0 +1,2 @@
+# MiningPoolHub
+Automatic calculate KRW
